@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng Việt](README.vi.md)
+[English](README.md) | [Tiếng Việt](README.vi.md) | [简体中文](README.zh-CN.md)
 
 # Betterone Console Server
 
@@ -60,6 +60,6 @@ TOML 只需写要覆盖的字段；未写字段使用程序默认值。正式构
 
 官网：[cs.betterone.top](https://cs.betterone.top)
 
-GitHub：[better-one-top/serial-console-server](https://github.com/better-one-top/serial-console-server)
+GitHub：[betterone-top/console-server](https://github.com/betterone-top/console-server)
 
 邮箱：[betterone-top@hotmail.com](mailto:betterone-top@hotmail.com)

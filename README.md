@@ -60,6 +60,6 @@ In the TOML configuration, specify only the fields you wish to override; unconfi
 
 Official Website: [cs.betterone.top](https://cs.betterone.top)
 
-GitHub: [better-one-top/serial-console-server](https://github.com/better-one-top/serial-console-server)
+GitHub: [betterone-top/console-server](https://github.com/betterone-top/console-server)
 
 Email: [betterone-top@hotmail.com](mailto:betterone-top@hotmail.com)

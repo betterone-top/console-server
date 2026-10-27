@@ -60,6 +60,6 @@ Tệp TOML chỉ cần ghi các trường muốn ghi đè; các trường không
 
 Trang web chính thức: [cs.betterone.top](https://cs.betterone.top)
 
-GitHub: [better-one-top/serial-console-server](https://github.com/better-one-top/serial-console-server)
+GitHub: [betterone-top/console-server](https://github.com/betterone-top/console-server)
 
 Email: [betterone-top@hotmail.com](mailto:betterone-top@hotmail.com)
